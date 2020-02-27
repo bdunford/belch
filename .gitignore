@@ -1,0 +1,7 @@
+*.pyc
+.env-osx
+.env-py2
+.env-py3
+.env
+__pycache__
+tests
